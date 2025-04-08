@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Paracetamol",
+        "type": "Tablet",
+        "uses": "Pain relief, Fever",
+        "side_effects": "Nausea, rash"
+    },
+    {
+        "name": "Omeprazole",
+        "type": "Capsule",
+        "uses": "Acid reflux",
+        "side_effects": "Headache"
+    }
+]
