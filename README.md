@@ -1,4 +1,9 @@
 # Medicine API (Flask)
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Platform](https://img.shields.io/badge/Platform-Android-a4c639)
+![Format](https://img.shields.io/badge/Data-JSON-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
 A simple REST API for managing medicine data.
 
